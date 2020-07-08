@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="http://WebApplication1/Default.aspx" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="Sit/MyApp" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="False" />
+  <publishProfile publishUrl="C:\Users\SONY\Desktop\publishFolder" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="C:\Users\SONY\Desktop\publishFolder" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile2" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="07/08/2020 15:41:51" />
+    <file relUrl="Site.Master" publishTime="07/08/2020 14:55:09" />
+    <file relUrl="bin/WebApplication1.pdb" publishTime="07/08/2020 15:41:46" />
+    <file relUrl="Account/Register.aspx" publishTime="07/08/2020 14:55:08" />
+    <file relUrl="bin/WebApplication1.dll" publishTime="07/08/2020 15:41:46" />
+    <file relUrl="Account/Web.config" publishTime="07/08/2020 15:41:51" />
+    <file relUrl="Account/Login.aspx" publishTime="07/08/2020 14:55:08" />
+    <file relUrl="Styles/Site.css" publishTime="07/08/2020 14:55:09" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="07/08/2020 14:55:08" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="07/08/2020 14:55:07" />
+    <file relUrl="Global.asax" publishTime="07/08/2020 14:55:09" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="07/08/2020 14:55:08" />
+    <file relUrl="About.aspx" publishTime="07/08/2020 14:55:09" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="07/08/2020 14:55:08" />
+    <file relUrl="Default.aspx" publishTime="07/08/2020 14:55:09" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="07/08/2020 14:55:08" />
+  </publishProfile>
+</publishData>
