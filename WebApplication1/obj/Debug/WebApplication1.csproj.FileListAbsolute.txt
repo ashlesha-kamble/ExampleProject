@@ -1,0 +1,4 @@
+F:\GITHUB\NewProj\NewProj\ExampleProject\WebApplication1\bin\WebApplication1.dll
+F:\GITHUB\NewProj\NewProj\ExampleProject\WebApplication1\bin\WebApplication1.pdb
+F:\GITHUB\NewProj\NewProj\ExampleProject\WebApplication1\obj\Debug\WebApplication1.dll
+F:\GITHUB\NewProj\NewProj\ExampleProject\WebApplication1\obj\Debug\WebApplication1.pdb
